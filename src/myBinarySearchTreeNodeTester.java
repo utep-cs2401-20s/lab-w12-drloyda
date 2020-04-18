@@ -5,6 +5,7 @@ import javax.imageio.plugins.tiff.ExifParentTIFFTagSet;
 import static junit.framework.TestCase.assertEquals;
 
 public class myBinarySearchTreeNodeTester {
+    
     //TEST CASE 1: Inserting a node into the tree
     @Test
     public void test1(){
